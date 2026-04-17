@@ -1,4 +1,4 @@
-# 🗄️ Complete Database Course
+#  Complete Database Course
 
 > A comprehensive, beginner-to-advanced guide to learning Databases — from fundamentals to real-world applications.
 
