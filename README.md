@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About This Course](#about-this-course)
 - [Who Is This For?](#who-is-this-for)
