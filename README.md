@@ -29,7 +29,7 @@
 
 ---
 
-##  About This Course
+## 📖 About This Course
 
 This is a **free, open-source, self-paced** complete database course that covers everything you need to go from a complete beginner to a confident database developer and administrator. You will learn SQL, NoSQL, database design, optimization, transactions, cloud databases, and more.
 
