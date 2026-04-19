@@ -81,7 +81,7 @@ Database Administration
 
 ---
 
-## 📦 Module 1 — Introduction to Databases
+##  Module 1 — Introduction to Databases
 
 ### 🎯 Topics Covered
 - What is a Database?
@@ -91,20 +91,20 @@ Database Administration
 - Popular Databases Overview (MySQL, PostgreSQL, MongoDB, SQLite, Oracle)
 - How databases are used in real-world applications
 
-### 🔑 Key Concepts
+###  Key Concepts
 - **DBMS** — Database Management System
 - **Schema** — Blueprint/structure of a database
 - **Instance** — The actual data at a point in time
 - **Data Independence** — Physical vs Logical
 
-### 📝 Tasks
+###  Tasks
 - [ ] Install MySQL / PostgreSQL on your machine
 - [ ] Install DB GUI tools: DBeaver or TablePlus
 - [ ] Create your first database
 
 ---
 
-## 📦 Module 2 — Relational Database & SQL
+##  Module 2 — Relational Database & SQL
 
 ### 🎯 Topics Covered
 - What is a Relational Database?
