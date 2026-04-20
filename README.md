@@ -453,17 +453,17 @@ await client.connect();
 
 ## 📦 Module 10 — Real-World Projects
 
-### 🚀 Project 1 — Student Management System
+###  Project 1 — Student Management System
 - Tech: MySQL + Python/Node.js
 - Features: CRUD for students, courses, enrollment
 - Apply: Joins, Stored Procedures, Transactions
 
-### 🚀 Project 2 — E-Commerce Database
+###  Project 2 — E-Commerce Database
 - Tech: PostgreSQL + any backend
 - Features: Products, Orders, Inventory, Reviews
 - Apply: Normalization, Indexing, Views
 
-### 🚀 Project 3 — Social Media Backend
+###  Project 3 — Social Media Backend
 - Tech: MongoDB + Redis
 - Features: Users, Posts, Likes, Comments, Feed
 - Apply: NoSQL schema design, Caching with Redis
