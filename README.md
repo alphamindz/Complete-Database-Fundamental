@@ -243,16 +243,16 @@ AFTER 2NF & 3NF:
 → Enrollments(StudentID, CourseID)
 ```
 
-### 📝 Tasks
+###  Tasks
 - [ ] Draw an ER Diagram for an E-Commerce system (Users, Products, Orders, Reviews)
 - [ ] Convert the ER Diagram to normalized tables up to 3NF
 - [ ] Use draw.io or dbdiagram.io to design your schema
 
 ---
 
-## 📦 Module 5 — Transactions & Concurrency
+##  Module 5 — Transactions & Concurrency
 
-### 🎯 Topics Covered
+###  Topics Covered
 - What is a Transaction?
 - **ACID Properties**
   - **Atomicity** — All or nothing
